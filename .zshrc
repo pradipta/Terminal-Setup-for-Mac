@@ -1,4 +1,3 @@
-'''
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -182,7 +181,3 @@ export CGO_LDFLAGS_ALLOW=".*"
 export CGO_CFLAGS_ALLOW=".*"
 export PATH="/usr/local/opt/libxml2/bin:$PATH"
 export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH"
-
-
-
-'''
