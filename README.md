@@ -36,6 +36,7 @@ Add these lines to the .zshrc :
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
+Make sure to run ```source ~./.zshrc``` after addition of new features for it to load.
 
 Check the .zshrc file to get the required features.
 
