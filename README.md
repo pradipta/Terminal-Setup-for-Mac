@@ -26,5 +26,16 @@ To run xsh shell, run:
 
 To have additional features on ZSH, you need to edit the ```.zshrc``` file.
 
+Install zsh-autosuggestions and zsh-syntax-highlighting:
+```
+brew install zsh-syntax-highlighting
+brew install zsh-autosuggestions
+```
+Add these lines to the .zshrc :
+```
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+```
+
 Check the .zshrc file to get the required features.
 
