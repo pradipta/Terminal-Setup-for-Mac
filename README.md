@@ -1,5 +1,7 @@
 # Terminal-Setup-for-Mac
-My custom terminal setup for MacBook
+ZSH setup for MacBook
+
+Steps:
 
 Install Homebrew. For that, run : 
 ```
