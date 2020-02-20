@@ -42,6 +42,5 @@ Make sure to run ```source ~./.zshrc``` after addition of new features for it to
 
 Check the .zshrc file to get the required features.
 
-Download iTerm and use that instead of Terminal
-`https://www.iterm2.com/downloads.html`
+Download [iTerm](https://www.iterm2.com/downloads.html) and use that instead of Terminal
 
